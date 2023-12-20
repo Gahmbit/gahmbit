@@ -1,6 +1,6 @@
-## Fancy seeing you here! <img src="https://github.com/Gahmbit/gahmbit/blob/main/wave.gif?raw=true" width="30">
+## Hello there! <img src="https://github.com/Gahmbit/gahmbit/blob/main/wave.gif?raw=true" width="30">
 
-I'm Justin, a tech and software enthusiast with a professional background in IT and Technical Solutions. Always open to collaborate! I can also be found elsewhere:
+I'm Justin, a tech and software enthusiast with a professional background in IT and Technical Solutions. Also a Star Wars, Pokemon, and RuneScape super fan! Always open to collaborate. I can be found elsewhere:
 
 [![Linkedin Badge](https://img.shields.io/badge/-gothreau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gothreau/)](https://www.linkedin.com/in/gothreau/)
 
