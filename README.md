@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Fancy seeing you here! <img src="https://github.com/Gahmbit/gahmbit/blob/main/wave.gif?raw=true" width="30">
 
 I'm Justin, a tech and software enthusiast with a professional background in IT and Technical Solutions. Always open to collaborate! I can also be found elsewhere:
 
